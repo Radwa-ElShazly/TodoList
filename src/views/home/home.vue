@@ -47,7 +47,7 @@
 
 <script setup>
 import { computed, ref, onMounted, watch } from 'vue';
-import logo from '../../assets/WhatsApp Image 2025-01-04 at 22.19.07.jpeg';
+import logo from '../../assets/pexels-criativithy-894081-1821095.jpg';
 
 function formatDate(date) {
   return date.toLocaleDateString('en-US', {  day: 'numeric'});
